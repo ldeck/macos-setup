@@ -4,6 +4,14 @@ Scripted installation of all your apps and utilities.
 
 ## Features: ##
 
+### 0. Simply requires a macOS with Xcode install  ###
+
+The intension is to automate as much as possible beyond a basic install.
+
+Simply install / update your macOS and Xcode intalls.
+
+Then clone this repo and run the setup.
+
 ### 1. Homebrew automatically installed ###
 
 If `brews` or `casks` options are enabled and `which brew` fails, [Homebrew](https://brew.sh) will be automatically installed.
