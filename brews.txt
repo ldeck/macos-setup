@@ -1,0 +1,14 @@
+ctags
+direnv
+exercism
+kryptco/tap/kr
+markdown
+maven
+nvm
+postgresql
+rbenv
+readline
+ruby-build
+sbt
+scala
+the_silver_searcher
